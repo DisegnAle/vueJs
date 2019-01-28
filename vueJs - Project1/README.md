@@ -27,3 +27,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+Application developed with vue-cli-3 (store, components, filters).
+Use of element-ui plugin
